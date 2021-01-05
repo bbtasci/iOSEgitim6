@@ -43,6 +43,7 @@
                         </subviews>
                         <constraints>
                             <constraint firstItem="GZH-nM-2kK" firstAttribute="width" secondItem="ADT-eE-9vE" secondAttribute="width" id="7Xd-65-b40"/>
+                            <constraint firstAttribute="height" constant="34" id="k8X-Dz-URq"/>
                             <constraint firstItem="bis-lu-YQP" firstAttribute="width" secondItem="ADT-eE-9vE" secondAttribute="width" id="xMF-6H-b68"/>
                         </constraints>
                     </stackView>

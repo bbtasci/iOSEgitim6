@@ -99,7 +99,7 @@ class ViewController: UIViewController {
     }
     
     func prepareSeeAnimalListButton() {
-        seeAnimalListButton.layer.contents = 10
+        seeAnimalListButton.layer.cornerRadius = 10
         seeAnimalListButton.layer.masksToBounds = true
     }
     
